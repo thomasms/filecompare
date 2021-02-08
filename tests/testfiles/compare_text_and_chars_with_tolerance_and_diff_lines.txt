@@ -1,0 +1,14 @@
+This is a test 12 3.04
+
+123 5.6648 1.1 992.281
+
+This line is to be ignored 66.88 hopefully
+Again 45.6 more text with 37.642 numbers4
+
+4.607 sometext 3.02 7.8fg 4.31d
+51.607 sometext 22 3.02 7.88 3fg 4.31d
+
+
+
+
+
