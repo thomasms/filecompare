@@ -12,3 +12,4 @@ filecompare.egg-info
 
 build
 dist
+venv
